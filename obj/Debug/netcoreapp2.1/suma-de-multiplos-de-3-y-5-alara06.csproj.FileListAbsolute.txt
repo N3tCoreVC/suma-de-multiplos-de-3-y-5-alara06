@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.csprojAssemblyReference.cache
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.AssemblyInfo.cs
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.deps.json
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.runtimeconfig.json
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.runtimeconfig.dev.json
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.dll
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.pdb
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.dll
+C:\Users\admin\Documents\CursoNetCore\alara\clase05102018\suma-de-multiplos-de-3-y-5-alara06\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-alara06.pdb
